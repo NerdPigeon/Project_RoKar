@@ -64,3 +64,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Project_RoKar/Intermediate/CachedAssetRegistry.bin
+Project_RoKar/Saved/Autosaves/PackageRestoreData.json
+Project_RoKar/Saved/AutoScreenshot.png
+Project_RoKar/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project_RoKar/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project_RoKar/Saved/Logs/Project_RoKar.log
+Project_RoKar/Saved/Config/CrashReportClient/UE4CC-Windows-B86815D643D024F37963EE952C07F498/CrashReportClient.ini
