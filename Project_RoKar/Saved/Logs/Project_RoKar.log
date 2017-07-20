@@ -210,3 +210,90 @@ LogInit: Object subsystem initialized
 [2017.07.20-03.48.07:755][ 41]LogSavePackage: Save=52.10ms
 [2017.07.20-03.48.07:755][ 41]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Main9F096E6545F0D03F181D09BA8DD9DC79.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap'
 [2017.07.20-03.48.07:759][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap
+[2017.07.20-04.14.53:511][500]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruno/Documents/3D OBJECT/Medieval_Door/44.png)
+[2017.07.20-04.14.53:593][500]LogTexture:Display: Building textures: 44 (BC5, 1024X1024)
+[2017.07.20-04.14.53:789][500]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.20-04.14.53:895][500]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Bruno/Documents/3D OBJECT/Medieval_Door/Privy Council Door.obj)
+[2017.07.20-04.14.54:068][500]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruno/Documents/3D OBJECT/Medieval_Door/Privy Council Door.obj
+[2017.07.20-04.14.54:076][500]LogFbx: FBX Scene Loaded Succesfully
+[2017.07.20-04.14.57:717][500]LogFbx: Loading FBX Scene from ../../../../../../Users/Bruno/Documents/3D OBJECT/Medieval_Door/Privy Council Door.obj
+[2017.07.20-04.14.57:728][500]LogFbx: FBX Scene Loaded Succesfully
+[2017.07.20-04.14.57:730][500]LogLinker: No puede encontrar el archivo '/Game/Assets/3DDOORS/Extrude_NURBS_1Mat'
+[2017.07.20-04.14.57:730][500]LogLinker: No puede encontrar el archivo '/Game/Assets/3DDOORS/Extrude_NURBS_1Mat'
+[2017.07.20-04.14.57:736][500]LogMaterial: Missing cached shader map for material Extrude_NURBS_1Mat, compiling. 
+[2017.07.20-04.14.57:783][500]LogFbx:Warning: Triangulating static mesh Extrude_NURBS_1
+[2017.07.20-04.14.57:807][500]LogStaticMesh: Generando la malla estática Privy_Council_Door_Extrude_NURBS_1...
+[2017.07.20-04.14.57:807][500]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2017.07.20-04.14.57:813][500]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1.Privy_Council_Door_Extrude_NURBS_1
+[2017.07.20-04.14.57:827][500]LogLinker: No puede encontrar el archivo '/Game/Assets/3DDOORS/PlaneMat'
+[2017.07.20-04.14.57:827][500]LogLinker: No puede encontrar el archivo '/Game/Assets/3DDOORS/PlaneMat'
+[2017.07.20-04.14.57:834][500]LogMaterial: Missing cached shader map for material PlaneMat, compiling. 
+[2017.07.20-04.14.57:862][500]LogFbx:Warning: Triangulating static mesh Plane
+[2017.07.20-04.14.58:039][500]LogStaticMesh: Generando la malla estática Privy_Council_Door_Plane...
+[2017.07.20-04.14.58:041][500]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2017.07.20-04.14.58:056][500]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3DDOORS/Privy_Council_Door_Plane.Privy_Council_Door_Plane
+[2017.07.20-04.14.58:068][500]FBXImport:Warning: Aviso No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.07.20-04.14.58:096][500]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Bruno/Documents/3D OBJECT/Medieval_Door/Privy Council Door.png)
+[2017.07.20-04.14.58:205][500]LogTexture:Display: Building textures: Privy_Council_Door (AutoDXT, 1024X1024)
+[2017.07.20-04.15.06:880][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.07.20-04.15.07:528][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.07.20-04.15.11:536][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/Main' took 0.032
+[2017.07.20-04.15.11:556][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/44] ([1] browsable assets)...
+[2017.07.20-04.15.11:570][814]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/3DDOORS/44.44]
+[2017.07.20-04.15.11:570][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/44]
+[2017.07.20-04.15.11:592][814]LogSavePackage: Save=16.67ms
+[2017.07.20-04.15.11:592][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/44_Auto1AED8728642862A87F9C4E78EE85E9942.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/44_Auto1.uasset'
+[2017.07.20-04.15.11:595][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/44_Auto1.uasset
+[2017.07.20-04.15.11:596][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/Privy_Council_Door] ([1] browsable assets)...
+[2017.07.20-04.15.11:610][814]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/3DDOORS/Privy_Council_Door.Privy_Council_Door]
+[2017.07.20-04.15.11:610][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/Privy_Council_Door]
+[2017.07.20-04.15.11:632][814]LogSavePackage: Save=17.07ms
+[2017.07.20-04.15.11:632][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_Door_Auto115D758CB42DFAFAB169623BD1A02A1B0.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Auto1.uasset'
+[2017.07.20-04.15.11:635][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Auto1.uasset
+[2017.07.20-04.15.11:637][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1] ([1] browsable assets)...
+[2017.07.20-04.15.11:656][814]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1.Privy_Council_Door_Extrude_NURBS_1]
+[2017.07.20-04.15.11:656][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1]
+[2017.07.20-04.15.11:674][814]LogSavePackage: Save=14.42ms
+[2017.07.20-04.15.11:674][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_Door_Extrude_NURBS_1_Auto178EC22094B90A2225FC810BB91631181.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1_Auto1.uasset'
+[2017.07.20-04.15.11:677][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1_Auto1.uasset
+[2017.07.20-04.15.11:679][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/Extrude_NURBS_1Mat] ([1] browsable assets)...
+[2017.07.20-04.15.11:698][814]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/3DDOORS/Extrude_NURBS_1Mat.Extrude_NURBS_1Mat]
+[2017.07.20-04.15.11:698][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/Extrude_NURBS_1Mat]
+[2017.07.20-04.15.11:715][814]LogSavePackage: Save=15.20ms
+[2017.07.20-04.15.11:715][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Extrude_NURBS_1Mat_Auto1349C6DB54979D6E701CEE28D78FFD236.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Extrude_NURBS_1Mat_Auto1.uasset'
+[2017.07.20-04.15.11:723][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Extrude_NURBS_1Mat_Auto1.uasset
+[2017.07.20-04.15.11:724][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/Privy_Council_Door_Plane] ([1] browsable assets)...
+[2017.07.20-04.15.11:747][814]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/3DDOORS/Privy_Council_Door_Plane.Privy_Council_Door_Plane]
+[2017.07.20-04.15.11:747][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/Privy_Council_Door_Plane]
+[2017.07.20-04.15.11:777][814]LogSavePackage: Save=20.05ms
+[2017.07.20-04.15.11:778][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_Door_Plane_Auto16C30068B407866ABB33914BCFF392346.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Plane_Auto1.uasset'
+[2017.07.20-04.15.11:784][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/Privy_Council_Door_Plane_Auto1.uasset
+[2017.07.20-04.15.11:787][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/3DDOORS/PlaneMat] ([1] browsable assets)...
+[2017.07.20-04.15.11:806][814]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/3DDOORS/PlaneMat.PlaneMat]
+[2017.07.20-04.15.11:807][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/3DDOORS/PlaneMat]
+[2017.07.20-04.15.11:825][814]LogSavePackage: Save=15.15ms
+[2017.07.20-04.15.11:825][814]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/PlaneMat_Auto1CB88FFF743259AA4CFFC5E9666EB3DD1.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/PlaneMat_Auto1.uasset'
+[2017.07.20-04.15.11:828][814]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Autosaves/Game/Assets/3DDOORS/PlaneMat_Auto1.uasset
+[2017.07.20-04.15.11:828][814]LogFileHelpers: Auto-saving content packages took 0.291
+[2017.07.20-04.15.18:341][ 65]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.07.20-04.15.20:704][145]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.07.20-04.15.25:256][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3DDOORS/44" FILE="../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/44.uasset" SILENT=true
+[2017.07.20-04.15.25:420][265]LogSavePackage: Save=159.81ms
+[2017.07.20-04.15.25:420][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/447AFCCCA548D9EF079D2C5285164BD2CB.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/44.uasset'
+[2017.07.20-04.15.25:428][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/44.uasset
+[2017.07.20-04.15.25:516][265]LogSavePackage: Save=14.78ms
+[2017.07.20-04.15.25:516][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Extrude_NURBS_1MatB717B99A4DE905C72F17768179AF89FF.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Extrude_NURBS_1Mat.uasset'
+[2017.07.20-04.15.25:525][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Extrude_NURBS_1Mat.uasset
+[2017.07.20-04.15.25:566][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3DDOORS/PlaneMat" FILE="../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/PlaneMat.uasset" SILENT=true
+[2017.07.20-04.15.25:599][265]LogSavePackage: Save=16.58ms
+[2017.07.20-04.15.25:599][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/PlaneMat501235DE46556273C3632AA4807DD735.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/PlaneMat.uasset'
+[2017.07.20-04.15.25:605][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/PlaneMat.uasset
+[2017.07.20-04.15.25:733][265]LogSavePackage: Save=110.71ms
+[2017.07.20-04.15.25:733][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_DoorB8733BC742DE93EA78EA7F881F512D24.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door.uasset'
+[2017.07.20-04.15.25:739][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door.uasset
+[2017.07.20-04.15.25:785][265]LogSavePackage: Save=13.55ms
+[2017.07.20-04.15.25:785][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_Door_Extrude_NURBS_1A0AAED2A48487C6CCE418CB303A2DF08.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1.uasset'
+[2017.07.20-04.15.25:790][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door_Extrude_NURBS_1.uasset
+[2017.07.20-04.15.25:826][265]LogSavePackage: Save=14.20ms
+[2017.07.20-04.15.25:826][265]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Saved/Privy_Council_Door_PlaneB21C02B24D7FE582E69CCBABF094758A.tmp' to '../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door_Plane.uasset'
+[2017.07.20-04.15.25:831][265]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/GitHub/Project_RoKar/Project_RoKar/Content/Assets/3DDOORS/Privy_Council_Door_Plane.uasset
