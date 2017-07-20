@@ -594,3 +594,147 @@ LogInit: Object subsystem initialized
 [2017.07.20-02.28.33:815][ 52]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonExampleMap_BuiltDataDCF1B0A242072B62B2BE369A76D18FB7.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2017.07.20-02.28.33:822][ 52]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
 [2017.07.20-02.28.45:798][318]SourceControl: Info Source control is disabled
+[2017.07.20-03.20.57:400][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:401][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:401][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:402][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:402][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:402][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:402][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C:HMDEnabled?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:403][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:403][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:403][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:404][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:404][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonHUD.SKEL_FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.20.57:412][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:413][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:413][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:414][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:414][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:414][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:415][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:415][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:415][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:416][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:416][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:417][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:417][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:417][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:418][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:418][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:418][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:419][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:419][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:419][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:420][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:420][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:420][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:421][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:421][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:421][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:421][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:422][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonCharacter.FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.20.57:438][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:439][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:439][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:439][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:439][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:440][544]LogMetaData: Removing '/Game/Assets/Gamemode/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.20.57:467][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FirstPersonHUD" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonHUD.uasset" SILENT=true
+[2017.07.20-03.20.57:504][544]LogSavePackage: Save=32.94ms
+[2017.07.20-03.20.57:504][544]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonHUD33624FD94DD156925E7CDC8D28C63702.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonHUD.uasset'
+[2017.07.20-03.20.57:509][544]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonHUD.uasset
+[2017.07.20-03.20.57:576][544]LogSavePackage: Save=59.33ms
+[2017.07.20-03.20.57:576][544]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonCharacter6223EE3F41B1C63F0AA8E7826A6BE771.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonCharacter.uasset'
+[2017.07.20-03.20.57:583][544]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonCharacter.uasset
+[2017.07.20-03.20.57:648][544]LogSavePackage: Save=1.87ms
+[2017.07.20-03.20.57:648][544]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonCharacter157357E2430CD0DA6E0ECAA506BC6D02.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.07.20-03.20.57:653][544]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.07.20-03.20.57:660][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FirstPersonGameMode" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset" SILENT=true
+[2017.07.20-03.20.57:668][544]LogSavePackage: Save=5.85ms
+[2017.07.20-03.20.57:669][544]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonGameMode1E793CD94ED1556B9D954DB7EECE848A.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset'
+[2017.07.20-03.20.57:675][544]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset
+[2017.07.20-03.20.57:689][544]LogSavePackage: Save=1.50ms
+[2017.07.20-03.20.57:689][544]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonGameMode3BEB850742CBD5CC0DE130B1509550B3.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2017.07.20-03.20.57:694][544]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2017.07.20-03.21.05:988][288]LogMetaData: Removing '/Game/Assets/Gamemode/FP_Char.FP_Char_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.21.05:988][288]LogMetaData: Removing '/Game/Assets/Gamemode/FP_Char.SKEL_FP_Char_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonCharacter.PackageMetaData'
+[2017.07.20-03.21.06:028][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FP_Char" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_Char.uasset" SILENT=true
+[2017.07.20-03.21.06:086][288]LogSavePackage: Save=55.24ms
+[2017.07.20-03.21.06:086][288]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FP_Char64693F2D42C6F4BB7E728C9929DE82C9.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_Char.uasset'
+[2017.07.20-03.21.06:091][288]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_Char.uasset
+[2017.07.20-03.21.06:311][288]LogSavePackage: Save=3.40ms
+[2017.07.20-03.21.06:311][288]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonCharacterE3EAF4B448E87A87495DBEA5202CFCF5.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.07.20-03.21.06:314][288]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.07.20-03.21.06:320][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FirstPersonGameMode" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset" SILENT=true
+[2017.07.20-03.21.06:330][288]LogSavePackage: Save=7.20ms
+[2017.07.20-03.21.06:331][288]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonGameMode1A84E5EA44CAF96BDC8BCF916419BF26.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset'
+[2017.07.20-03.21.06:336][288]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset
+[2017.07.20-03.21.11:988][796]LogMetaData: Removing '/Game/Assets/Gamemode/FP_HUD.FP_HUD_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.21.11:988][796]LogMetaData: Removing '/Game/Assets/Gamemode/FP_HUD.SKEL_FP_HUD_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonHUD.PackageMetaData'
+[2017.07.20-03.21.12:025][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FP_HUD" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_HUD.uasset" SILENT=true
+[2017.07.20-03.21.12:050][796]LogSavePackage: Save=22.04ms
+[2017.07.20-03.21.12:050][796]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FP_HUDB2BA35BE4332BCA68F1BDC99E675A1C4.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_HUD.uasset'
+[2017.07.20-03.21.12:057][796]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FP_HUD.uasset
+[2017.07.20-03.21.12:273][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/FirstPersonGameMode" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset" SILENT=true
+[2017.07.20-03.21.12:285][796]LogSavePackage: Save=6.86ms
+[2017.07.20-03.21.12:286][796]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonGameMode69411D8040DB919D9F269FA2460EAF1D.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset'
+[2017.07.20-03.21.12:291][796]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/FirstPersonGameMode.uasset
+[2017.07.20-03.21.23:345][850]LogMetaData: Removing '/Game/Assets/Gamemode/GM_FP.GM_FP_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.21.23:346][850]LogMetaData: Removing '/Game/Assets/Gamemode/GM_FP.SKEL_GM_FP_C' ref from Metadata '/Game/Assets/Gamemode/FirstPersonGameMode.PackageMetaData'
+[2017.07.20-03.21.23:396][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/GM_FP" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset" SILENT=true
+[2017.07.20-03.21.23:403][850]LogSavePackage: Save=5.25ms
+[2017.07.20-03.21.23:403][850]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/GM_FP1321A5AD457F5F47955A489E19E572C6.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset'
+[2017.07.20-03.21.23:409][850]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset
+[2017.07.20-03.21.23:631][850]LogSavePackage: Save=1.69ms
+[2017.07.20-03.21.23:631][850]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonGameMode4F0D9D944FB69F0BDFDFD199DF0688AC.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2017.07.20-03.21.23:633][850]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2017.07.20-03.21.28:591][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gamemode/GM_FP" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset" SILENT=true
+[2017.07.20-03.21.28:604][982]LogSavePackage: Save=6.61ms
+[2017.07.20-03.21.28:604][982]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/GM_FPC99C39AB4C0F696AFFE0CD8892467A48.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset'
+[2017.07.20-03.21.28:610][982]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Gamemode/GM_FP.uasset
+[2017.07.20-03.21.54:295][802]LogSavePackage: Save=169.46ms
+[2017.07.20-03.21.54:295][802]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/FirstPersonExampleMap777FB0514113C9EE97ABFD8478E3B61A.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.07.20-03.21.54:302][802]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.07.20-03.21.54:315][802]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.420
+[2017.07.20-03.21.54:343][802]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.20-03.21.54:375][802]LightingResults: New page: Lighting Build
+[2017.07.20-03.21.54:378][802]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.07.20-03.21.54:379][802]MapCheck: New page: Map Check
+[2017.07.20-03.21.54:379][802]LightingResults: New page: Lighting Build
+[2017.07.20-03.21.54:892][802]LogAIModule: Creating AISystem for world Untitled_1
+[2017.07.20-03.21.54:896][802]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.07.20-03.21.55:094][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.20-03.21.55:147][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.20-03.21.55:288][802]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 140.402ms to complete.
+[2017.07.20-03.21.55:288][802]LogFileHelpers: Loading map 'Template_Default' took 0.964
+[2017.07.20-03.22.03:420][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Main" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.07.20-03.22.03:477][910]LogSavePackage: Save=35.26ms
+[2017.07.20-03.22.03:477][910]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/Main888719BE474501A597FD4DAA44CF45BF.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap'
+[2017.07.20-03.22.03:480][910]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap
+[2017.07.20-03.22.03:501][910]LogFileHelpers: Saving map 'Main' took 0.286
+[2017.07.20-03.22.04:951][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Main" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.07.20-03.22.05:003][ 67]LogSavePackage: Save=28.09ms
+[2017.07.20-03.22.05:003][ 67]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/Main5805709E4F334EF06B131AA6B063F26F.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap'
+[2017.07.20-03.22.05:007][ 67]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap
+[2017.07.20-03.22.10:422][615]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.07.20-03.22.10:692][615]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.07.20-03.22.23:499][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Main" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.07.20-03.22.23:550][773]LogSavePackage: Save=29.69ms
+[2017.07.20-03.22.23:551][773]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/Main2327B610491AC9B3C7105AAA6ABFA9F5.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap'
+[2017.07.20-03.22.23:555][773]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap
+[2017.07.20-03.22.31:403][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Main" FILE="E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.07.20-03.22.31:454][610]LogSavePackage: Save=28.72ms
+[2017.07.20-03.22.31:455][610]LogSavePackage: Moving 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Saved/MainC1CFD92642CC45F891D9FBA6D8525AA7.tmp' to 'E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap'
+[2017.07.20-03.22.31:458][610]LogSavePackage:Display: Finished SavePackage E:/Dev Work/Unreal/Project_RoKar/Project_RoKar/Project_RoKar/Content/Assets/Maps/Main.umap
+[2017.07.20-03.23.17:744][892]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.07.20-03.23.17:923][896]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProjectRoKar
+[2017.07.20-03.23.17:924][896]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.07.20-03.23.17:924][896]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.07.20-03.23.17:924][896]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.07.20-03.23.17:924][896]LogTemp: BranchPath = NERD-AMD/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = NERD-AMD/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.07.20-03.23.18:005][906]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\DrogonMar\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.07.20-03.23.21:033][250]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2017.07.20-03.23.21:034][250]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2017.07.20-03.23.21:034][250]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2017.07.20-03.23.21:720][314]LogSlate: Took 0.002117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
