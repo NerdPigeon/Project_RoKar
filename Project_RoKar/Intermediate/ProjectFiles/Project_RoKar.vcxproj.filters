@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Project_RoKar.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{08659D4F-4E62-4424-8E6E-A7BE1EDAE658}</UniqueIdentifier>
+			<UniqueIdentifier>{1A5C8121-00DA-44A0-A20B-1FA3885EA41C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Project_RoKar.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{67A6E4F6-C2AA-4825-907F-712089D4062A}</UniqueIdentifier>
+			<UniqueIdentifier>{253C55E5-9579-4E83-9BB2-D509F3AD535C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Project_RoKar">
-			<UniqueIdentifier>{9423AEED-2A0C-4F45-9632-ED9E6A57CC87}</UniqueIdentifier>
+			<UniqueIdentifier>{357EFD40-357E-453E-8458-484074FE1AB8}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Project_RoKar\Project_RoKar.Build.cs">
 			<Filter>Source\Project_RoKar</Filter>
@@ -40,6 +40,12 @@
 			<Filter>Source\Project_RoKar</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\Project_RoKar\Project_RoKar.h">
+			<Filter>Source\Project_RoKar</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Project_RoKar\TriggerHidden.cpp">
+			<Filter>Source\Project_RoKar</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Project_RoKar\TriggerHidden.h">
 			<Filter>Source\Project_RoKar</Filter>
 		</ClInclude >
 		<ClCompile Include="..\..\Source\Project_RoKar\TrigggerVis.cpp">

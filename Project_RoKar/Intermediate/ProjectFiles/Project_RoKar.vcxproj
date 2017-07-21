@@ -724,6 +724,8 @@
 		<None Include="..\..\Source\Project_RoKar\Project_RoKar.Build.cs" />
 		<ClCompile Include="..\..\Source\Project_RoKar\Project_RoKar.cpp" />
 		<ClInclude Include="..\..\Source\Project_RoKar\Project_RoKar.h" />
+		<ClCompile Include="..\..\Source\Project_RoKar\TriggerHidden.cpp" />
+		<ClInclude Include="..\..\Source\Project_RoKar\TriggerHidden.h" />
 		<ClCompile Include="..\..\Source\Project_RoKar\TrigggerVis.cpp" />
 		<ClInclude Include="..\..\Source\Project_RoKar\TrigggerVis.h" />
 	</ItemGroup>
